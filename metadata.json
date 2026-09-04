@@ -1,0 +1,6 @@
+{
+  "name": "Flipkart",
+  "description": "An online shopping store inspired by Flipkart featuring deals, product categories, search, filters, cart, and quick checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
